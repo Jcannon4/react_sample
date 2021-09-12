@@ -1,0 +1,5 @@
+{
+  "API_URL": "http://localhost:5000/",
+  "API_URL0": "https://local_ngrok_tunnel_for_notifications/",
+  "API_URL1": "https://mainserver_for_live_Production.com/"
+}
